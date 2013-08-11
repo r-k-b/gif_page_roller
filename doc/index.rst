@@ -10,8 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
-
+   
+.. automodule:: gif_page_roller
+	:members:
 
 Indices and tables
 ==================
