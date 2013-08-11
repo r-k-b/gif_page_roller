@@ -1,0 +1,4 @@
+# sphinx and reST files
+.sphinx/
+doc/_build/
+
